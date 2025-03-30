@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: rgb(231, 231, 231);
 }
 
 /* Hero Section */
@@ -18,6 +19,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+.bgfondo{
+  background-color: rgb(194, 0, 0);
 }
 
 /* Contacto */
